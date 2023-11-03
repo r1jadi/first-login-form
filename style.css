@@ -1,0 +1,121 @@
+#hpar{
+    color: orange;
+    border-width: 4px;
+    border-style: solid;
+    border-image: linear-gradient(to right, black, grey) 1;
+    margin-left: 100px;
+    margin-right: 250px;
+    text-align: center;
+    
+}
+
+.htjere{
+    color: black;
+    border-width: 4px;
+    border-style: solid;
+    border-image: linear-gradient(to right, black, grey) 1;
+    margin-left: 100px;
+    margin-right: 250px;
+    text-align: center;
+    
+
+}
+
+.h3heading{
+    position:relative; left:60px; top:2px;
+}
+
+#foto1{
+    width: 80px;
+    margin-left: 270px;
+    margin-right: 270px;
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+
+#forma1{
+    border: solid;
+    border-width: 3px;
+    border-style: dotted;
+    border-color: orange;
+    width: fit-content;
+    margin-top: 20px;
+    margin-left: 450px;
+    margin-right: 100px;
+    margin-bottom: 20px;
+}
+
+.paragrafet{
+    text-align: center;
+    font: bold;
+    font-weight: 600;
+    font-style:oblique;
+    text-decoration: underline;
+}
+#emri{
+    margin-left: 220px;
+    margin-right: 150px;
+    margin-top: 1px;
+    margin-bottom: 20px;
+    font: bold;
+}
+    #mbiemri{
+    margin-left: 220px;
+    margin-right: 150px;
+    margin-top: 1px;
+    margin-bottom: 20px;
+}
+
+#emaili{
+    margin-left: 220px;
+    margin-right: 150px;
+    margin-top: 1px;
+    margin-bottom: 20px;
+}
+
+#psw{
+    margin-left: 220px;
+    margin-right: 150px;
+    margin-top: 1px;
+    margin-bottom: 20px;
+}
+
+#pswretype{
+    margin-left: 220px;
+    margin-right: 150px;
+    margin-top: 1px;
+    margin-bottom: 20px;
+}
+
+#ditlindja{
+    margin-left: 245px;
+    margin-right: 150px;
+    margin-top: 1px;
+    margin-bottom: 20px;
+}
+
+#regjistrimi{
+    margin-left: 270px;
+    margin-right: 150px;
+    margin-top: 1px;
+    margin-bottom: 20px;
+    background-color: orange;
+    width: 100px;
+    height: 45px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-right: 10px;
+    font: bold;
+    font-weight: 600;
+    font-style: oblique;
+
+}
+
+#headerr{
+    background-color: aquamarine;
+    padding: 5px;
+}
+
+
+
